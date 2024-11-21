@@ -25,7 +25,7 @@ students_data = {
 
 # Email configuration
 SENDER_EMAIL = "vibhutigoyal0603@gmail.com"
-SENDER_PASSWORD = "iayp rovk nwui jsev"
+SENDER_PASSWORD = "**************"
 SMTP_SERVER = "smtp.gmail.com"  # e.g., "smtp.gmail.com"
 SMTP_PORT = 587  # Typical SMTP port
 
